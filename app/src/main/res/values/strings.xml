@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_field">Name</string>
+    <string name="whipped_check_box_view">Whipped Cream</string>
+    <string name="chocolate_check_box_view">Chocolate</string>
+    <string name="quantity_text_view">Quantity</string>
+    <string name="order_summary">Order</string>
+    <string name="activity_two_text">Welcome to the second activity</string>
+    <string name="activity_two_button_text">Close Activity</string>
+    <string name="next_activity">Next Screen</string>
+    <string name="title_activity_activity_two">ActivityTwo</string>
+</resources>
